@@ -1,2 +1,0 @@
-# Icecream
-keepfool keepsimple
